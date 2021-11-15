@@ -21,7 +21,7 @@ require_once("controller/ControllerCadastro.php");
 	        }  
 		}
 	</script>
-	<title>SISTEMA DE AGENDAMENTO - CLIENTES</title>
+	<title>Listar Agendamentos</title>
 </head> 
 <body> 
 		<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #181818;">
