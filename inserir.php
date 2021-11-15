@@ -14,7 +14,7 @@
 	<link rel="stylesheet" href="css/estilo.css">
 	<script src="js/jquery.js"></script>
 	<script src="bootstrap/js/bootstrap.js"></script>
-	<title>SISTEMA DE AGENDAMENTO - CLIENTES</title>
+	<title>Agendar</title>
 </head> 
 <body> 
 	<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #181818;">
