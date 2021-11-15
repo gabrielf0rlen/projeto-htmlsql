@@ -1,6 +1,6 @@
 <?php
 $root = realpath($_SERVER["DOCUMENT_ROOT"]);
-require_once("$root/html-bd-proj/model/cadastro.php");
+require_once("$root/projeto-htmlsql/model/cadastro.php");
 
 class cadastroController{
 
